@@ -41,7 +41,7 @@ const aman = {
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 **Tools**
 
@@ -97,14 +97,6 @@ const aman = {
 </td>
 <td width="50%">
 
-### 🔗 CRYPTOTrail
-> Immutable token transaction records for compliance
-
-- 📜 Blockchain-based audit trail
-- 🔒 Smart contracts in Solidity
-- ✅ Built for regulatory compliance
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/amandevspace/CRYPTOTrail-Immutable-Record-of-Token-Transactions-for-Compliance)
 
 </td>
 </tr>
