@@ -8,7 +8,7 @@
 
 ```javascript
 const aman = {
-  location:   "Mumbai, India 🇮🇳",
+  location:   "Bhopal, India 🇮🇳",
   role:       "Full Stack Developer & AI Engineer",
   stack:      ["MongoDB", "Express", "React", "Node.js"],
   currently:  "Building AI-powered web products",
