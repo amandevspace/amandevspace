@@ -215,7 +215,7 @@ Consistent DSA practice on LeetCode, with a focus on the patterns that come up i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/aman-kumar-518a18304)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/amandevspace)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)]([https://your-portfolio.com](https://portfolio-p0tf.onrender.com/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://portfolio-p0tf.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:kumaramansingh2005@email.com)
 
 <br/>
